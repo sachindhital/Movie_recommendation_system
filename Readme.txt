@@ -7,5 +7,4 @@ order of Execution of files :
     2.model.ipynb
     3.main.ipynb
 
-Description of 
-
+It recommend the people movie according to their likes,tags.
